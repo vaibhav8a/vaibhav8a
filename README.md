@@ -69,14 +69,12 @@
 
 ---
 
-### 🎥 YouTube Clone
+🥗 AI-NUTRITION-TRACKER
 
-🔗 https://github.com/vaibhav8a/youtube-clone-main
+🔗 https://github.com/vaibhav8a/AI-Nutrition-tracker
 
-* Frontend clone exploring UI structuring & rendering
-* Learned component-based architecture
-
----
+Full-stack AI-powered nutrition tracking platform
+Features: calorie tracking, meal logging, personalized recommendations, dashboards
 
 ## 🤝 Connect With Me
 
