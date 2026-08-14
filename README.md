@@ -50,6 +50,18 @@
 
 ## 📌 Featured Projects
 
+### 🧠 AI Enterprise Knowledge Manager
+
+🔗 https://github.com/vaibhav8a/ai-enterprise-knowledge-manager
+
+* Multi-agent enterprise knowledge assistant on the **OpenAI Agents SDK** — 7 agents with real handoffs and agents-as-tools
+* **RAG** over PDF/DOCX/TXT/MD (ChromaDB + local embeddings) with page-level citations on every answer
+* Structured Pydantic outputs, persistent session memory, **human-in-the-loop approval** before any write
+* Grounded by design: answers only from your documents, and says so when the answer isn't there
+* Provider-portable (OpenAI or any compatible endpoint) · 142 tests runnable with no API key
+
+---
+
 ### 📊 BookPulse
 
 🔗 https://github.com/vaibhav8a/BookPulse
