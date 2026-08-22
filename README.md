@@ -2,7 +2,7 @@
 
 # Vaibhav Srivastava
 
-**Computer Science undergrad · PES University, Bengaluru**
+**Computer Science undergrad · PES University, Bengaluru '27**<br />
 Machine Learning Intern @ MindKonnected
 
 <a href="mailto:vaibhavsri1712@gmail.com"><img src="https://img.shields.io/badge/Email-2E3440?style=flat-square&logo=gmail&logoColor=88C0D0" /></a>
